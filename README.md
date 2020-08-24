@@ -21,7 +21,7 @@ Nearly every project built for the web relies on HTML, as its foundation. It def
   - Main
   - Section
   - Header
-  - Nav-
+  - Nav
   - Article
   - Aside
   - Footer
