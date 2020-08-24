@@ -10,7 +10,7 @@ Nearly every project built for the web relies on HTML, as its foundation. It def
   - Contents
     - Get to grips with the basic features of HTML5
 
-### Editor
+## Editor
 
 - [Visual Studio Code](https://code.visualstudio.com/) - This is what I typically use. It's open source and has tons of extensions available.
 
