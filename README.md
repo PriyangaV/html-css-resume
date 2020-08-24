@@ -8,64 +8,74 @@ Nearly every project built for the web relies on HTML, as its foundation. It def
 
   - Editor
   - Contents
-    - Get to grips with the basic features of HTML5
+
+    - Non-Semantic Elements
+      - Tells nothing about its content
+    - Semantic Elements
+      - Clearly defines its content
 
 ### Editor
 
 - [Visual Studio Code](https://code.visualstudio.com/) - This is what I typically use. It's open source and has tons of extensions available.
 
+- There's a bunch of others [listed here](http://en.wikipedia.org/wiki/List_of_HTML_editors), I just listed the ones I've used and liked!
+
 ### Contents
 
-- Semantic Markups
+- Get to grips with the basic features of HTML5
 
-  - Main
-  - Section
-  - Header
-  - Nav
-  - Article
-  - Aside
-  - Footer
+  - HTML5 Semantic Elements
 
-- Headings
+    - Main
+    - Section
+    - Header
+    - Nav
+    - Article
+    - Aside
+    - Footer
 
-  - h1, h2, h3, h4, h5, h6
+  - Headings
 
-- Paragraph
+    - h1, h2, h3, h4, h5, h6
 
-  - p
+  - Paragraph
 
-- Block Element
+    - p
 
-  - div
-  - p
+  - Block Element
 
-- Inline Elements
+    - div
+    - p
 
-  - span
-  - a
-  - strong
-  - em
-  - sub
-  - sup
+  - Inline Elements
 
-- Special Characters
+    - span
+    - a
+    - strong
+    - em
+    - sub
+    - sup
 
-- Lists
+  - Special Characters
 
-  - ordered
-  - unordered
-  - nested
+  - Lists
 
-- Forms
+    - ordered
+    - unordered
+    - nested
 
-  - inputs
-  - buttons
-  - textarea
-  - radio
-  - checkbox
-  - select
-  - fieldset
+  - Forms
 
-- Images
+    - inputs
+    - buttons
+    - textarea
+    - radio
+    - checkbox
+    - select
+    - fieldset
 
-- Video
+  - Images
+
+  - Video
+
+### Actually, now the end is here, thanks for reading!
